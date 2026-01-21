@@ -1,2 +1,2 @@
 # ripoforlearning
-it for just learing how this git work and ripos
+This ripo is just for learing how this git work and ripos
